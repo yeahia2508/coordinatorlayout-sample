@@ -4,7 +4,7 @@
 
 ![photo1.png](https://bitbucket.org/repo/dXdyL4/images/3785346827-photo1.png)
 
-## When you start scrolling you will look like this: ##
+## When you start scrolling it will look like this: ##
 
 
 ![photo2.png](https://bitbucket.org/repo/dXdyL4/images/3894405577-photo2.png)
