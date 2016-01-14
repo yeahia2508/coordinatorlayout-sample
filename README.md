@@ -9,6 +9,6 @@
 
 ![photo2.png](https://bitbucket.org/repo/dXdyL4/images/3894405577-photo2.png)
 
-## Then you will look like this: ##
+## Then it will look like this: ##
 
 ![photo3.png](https://bitbucket.org/repo/dXdyL4/images/3994983000-photo3.png)
